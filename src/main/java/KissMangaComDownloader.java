@@ -13,7 +13,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
+https://kissmanga.com/Manga/Versatile-Mage
 import java.io.Closeable;
 import java.io.File;
 import java.io.IOException;
